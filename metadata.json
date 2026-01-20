@@ -1,0 +1,7 @@
+{
+  "name": "AI Stylist Studio",
+  "description": "Ứng dụng AI Full-stack chuyên về lĩnh vực Thời trang, hỗ trợ Virtual Try-on, phối phụ kiện và thay đổi bối cảnh chuyên nghiệp.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
